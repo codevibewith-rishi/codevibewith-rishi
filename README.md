@@ -22,6 +22,8 @@ I have created several clones of popular websites to practice my skills, includi
 - **Zerodha Clone** 📈  
 - **Sursandhya Brand Page** 🏷️  
 - **India (Culture Showcase Website)** 🇮🇳
+- **Login Form Banner Design
+- **Portfolio Design( Html/ Css/ Js)
 
 ## 📚 What I've Learned
 I have mastered the basics of web development, including HTML, CSS, Tailwind CSS, and Git.  
